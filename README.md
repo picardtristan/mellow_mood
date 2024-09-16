@@ -1,7 +1,7 @@
 # Mellow Mood : analysis of coffee and tea's sales in US for 2023
 
 ### Project Overview
-This data analysis project aims to provide insights into the sales of differents stores around US in 2023. By analyzing the sales and profitability we want to identify trends to make data-driven recommandations and gain a depper understanding of the company's performance.
+This data analysis project aims to provide insights into the sales of different stores around US in 2023. By analyzing the sales and profitability we want to identify trends to make data-driven recommandations and gain a depper understanding of the company's performance.
 
 ### Context 
 MellowMood is a fake company based in USA whose the main activity is the sale of coffee and tea. Since its creation MellowMood has rapidly gained popularity and establishing itself as supplier of choice for bars, restaurants and hotels.
