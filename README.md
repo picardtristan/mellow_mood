@@ -30,7 +30,7 @@ The datasets are for the year 2023.
 - Tableau - Visualizations
 
 ### Exploratory Data Analysis and data cleaning
-For the EDA we decided to use Python with Jupyter Notebook using mainly pandas. See the code in the following link:
+For the EDA we decided to use Python with Jupyter Notebook using mainly pandas. See the code in the following link: [Notebook].(https://github.com/picardtristan/mellow_mood/blob/main/Project%20MellowMood.ipynb)
 
 ### Data visualization
 For the vizualisation we decided to build a dashboard on Tableau : 
