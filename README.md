@@ -12,8 +12,8 @@ We will analyze the sales by state and product to understand its implantation an
 
 ### Datasets
 We obtain two datasets:
--	Df_cat
--	Df_num
+-	[Df_cat](df_cat_mellowmood) 
+-	[Df_num](df_num_mellowmood)
   
 Df_cat represents the different stores by state and product. 
 
@@ -30,10 +30,10 @@ The datasets are for the year 2023.
 - Tableau - Visualizations
 
 ### Exploratory Data Analysis and data cleaning
-For the EDA we decided to use Python with Jupyter Notebook using mainly pandas. See the code in the following link: [Notebook].(https://github.com/picardtristan/mellow_mood/blob/main/Project%20MellowMood.ipynb)
+For the EDA we decided to use Python with Jupyter Notebook using mainly pandas. See the code in the following link: [Notebook](https://github.com/picardtristan/mellow_mood/blob/main/Project%20MellowMood.ipynb)
 
 ### Data visualization
-For the vizualisation we decided to build a dashboard on Tableau : 
+For the vizualisation we decided to build a dashboard on [Tableau](https://public.tableau.com/app/profile/tristan.picard/viz/MellowMoodProject-CoffeeandteassalesinUSfor2023/Dashboard1)
 
 ### Conclusions
 Through the dashboard we can say:
